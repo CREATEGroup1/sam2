@@ -1,0 +1,10 @@
+class_mapping:
+  0: anesthetic
+  1: catheter
+  2: dialator
+  3: guidewire
+  4: guidewire_casing
+  5: scalpel
+  6: syringe
+  7: ultrasound
+mode: detect
